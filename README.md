@@ -1,12 +1,33 @@
-# React + Vite
+# 🚀 React-playground
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal React learning repository filled with mini-projects, experiments, and hands-on components. This playground is my journey of mastering React through building and breaking things — and learning better by doing.
 
-Currently, two official plugins are available:
+> 💡 _"Code is never truly learned until it's built."_ — This repo is all about that.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📚 About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**React-playground** is a growing collection of self-built mini React apps and components, aimed at improving my skills in:
+
+- React fundamentals
+- Hooks & State Management
+- Component architecture
+- Routing (React Router)
+- TypeScript in React
+- Reusable UI components
+- Animations and UI polish
+- Best practices & clean code
+
+Each project or component is isolated inside its own folder, making it easy to explore and test individually.
+
+---
+
+## 🛠️ Projects So Far
+
+- **Counter App** – a simple app to increment and decrement a number
+- **Todo List App** - basic todo app, CRUD operations
+
+⏳ More projects coming soon:
+
+---
